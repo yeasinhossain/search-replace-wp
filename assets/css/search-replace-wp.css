@@ -1,0 +1,28 @@
+/**
+ * search-replace-wp.css
+ *
+ * Custom CSS for the Search Replace WP administration page.
+ */
+#srwp-results-table th { font-weight: bold; }
+#srwp-results-table tbody tr:nth-child(odd) { background-color: #F9F9F9; }
+.srwp-second, .srwp-third, .srwp-fourth { text-align: center !important; }
+#srwp-details-view-wrap { margin: 0 10px; }
+#srwp-details-view { table-layout: fixed; padding-top: 40px; }
+.srwp-old-val { background-color: #fdd; }
+.srwp-new-val { background-color: #cfc; }
+.srwp-change { width: 400px !important; }
+.srwp-slider { width: 23em; }
+.srwp-progress-wrap { width: 95%; height: 12px; background-color: #ddd; }
+.srwp-progress { width: 0%; height: 100%; background-color: #0073aa; }
+#srwp-search-replace-wrap { margin-top: 10px; }
+.srwp-description { display: block; margin-top: 6px !important; color: #444 !important; }
+#srwp-nav-tab-wrapper { margin-top: 0 !important; padding: 0 0 0 10px !important; font-size: 23px !important; }
+#srwp-help-heading { font-size: 1.3em !important; padding: 0 !important; }
+.srwp-processing-wrap { background: #f4f4f4; padding: 16px 16px 32px; overflow: auto; border-top: 1px solid #eae9e9; margin: 20px -12px -23px -12px; }
+.srwp-spinner { margin: -3px 0 0 0; }
+.srwp-license-status { float: left; margin-right: 15px; height: 28px; font-size: 13px; line-height: 26px; color: #fff; text-align: center; padding: 0 10px; border-radius: 4px; }
+#srwp-license-active { background: green; }
+#srwp-license-inactive { background: gray; }
+.srwp-no-profiles { vertical-align: middle; }
+#srwp-back-to-overview { width: 100%; position: fixed; margin-top: 0; background: #f8f8f8; border-bottom: 1px solid #ddd; padding: 8px 10px; }
+#srwp-table-select { width:25em; height: 180px; }
