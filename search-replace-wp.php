@@ -11,7 +11,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Search & Replace WP
- * Plugin URI:        https://yeasin.me
+ * Plugin URI:        https://github.com/yeasinhossain/search-replace-wp
  * Description:       A tiny tool for running a search/replace on your WordPress database.
  * Version:           1.0.2
  * Author:            Yeasin
